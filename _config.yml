@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Lucas Stefano Xavier de Sousa"
-  avatar           : "profile.png"
+  avatar           : "profile.jpeg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Maringá- PR"
   employer         :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0001-9573-7555"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
