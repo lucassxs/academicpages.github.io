@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Lucas Stefano Xavier de Sousa"
   avatar           : "profile.jpeg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "My name is Lucas Stefano, i am undergraduate Statistics in DES-UEM, love R, Python and SAS. I computer ganerm love especially Tom Clancy's The Division and Resident Evil. My interests are: Survival Analysis, Computational Statics and Astrostatics."
   location         : "Maringá- PR"
-  employer         :
+  employer         : "http://www.des.uem.br/"
   pubmed           : 
   googlescholar    : 
   email            :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/lucasstxs/"
+  linkedin         : "lucasstxs"
   orcid            : "https://orcid.org/0000-0001-9573-7555"
   pinterest        :
   soundcloud       :
